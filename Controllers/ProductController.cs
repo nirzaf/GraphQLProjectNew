@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace GraphQLProject.Controllers;
 
+[Route("api/controller")]
+[ApiController]
 public class ProductController : Controller
 {
     private readonly IProduct _product;
@@ -12,7 +14,7 @@ public class ProductController : Controller
         _product = product;
     }
     // GET
-    [HttpGet()]
+    [HttpGet]
     public IEnumerable<Product> GetProducts()
     {
         return _product.GetAllProducts();
@@ -25,7 +27,6 @@ public class ProductController : Controller
     }
     
     [HttpPost]
-    [ValidateAntiForgeryToken]
     public Product PostProduct([FromBody] Product product)
     {
         return _product.AddProduct(product);
