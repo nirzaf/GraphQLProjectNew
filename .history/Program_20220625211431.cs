@@ -23,6 +23,7 @@ builder.Services.AddSwaggerGen();
 
 //Switch of Metrics From GraphQL Server
 
+
 builder.Services.AddGraphQL(o =>
 {
     o.EnableMetrics = false;

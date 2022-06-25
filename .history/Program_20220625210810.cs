@@ -23,6 +23,7 @@ builder.Services.AddSwaggerGen();
 
 //Switch of Metrics From GraphQL Server
 
+
 builder.Services.AddGraphQL(o =>
 {
     o.EnableMetrics = false;
@@ -40,6 +41,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseGraphiQl("/graphql");
 app.UseGraphQL<ISchema>();
+
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
