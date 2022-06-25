@@ -14,14 +14,14 @@ public class ProductService : IProduct
     };
     
     
-    public List<Product?> GetAllProducts()
+    public IEnumerable<Product> GetAllProducts()
     {
         return _productList;
     }
 
     public Product? GetProductById(int id)
     {
-        return _productList.FirstOrDefault(p => p.Id == id);
+        return _productList.FirstOrDefault(p => p!.Id == id);
     }
 
     public Product AddProduct(Product product)

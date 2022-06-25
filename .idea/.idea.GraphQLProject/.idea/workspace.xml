@@ -8,17 +8,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e49bcb-f410-47c1-a65e-cc0b83e6fbca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GraphQLProject/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GraphQLProject/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GraphQLProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/IProduct.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/ProductService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphQLProject.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GraphQLProject.csproj" afterDir="false" />
+    <list default="true" id="92e49bcb-f410-47c1-a65e-cc0b83e6fbca" name="Changes" comment="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;project version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;GitToolBoxProjectSettings&quot;&gt;&#10;    &lt;option name=&quot;commitMessageIssueKeyValidationOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;    &lt;option name=&quot;commitMessageValidationEnabledOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;  &lt;/component&gt;&#10;&lt;/project&gt;">
+      <change afterPath="$PROJECT_DIR$/Controllers/ProductController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GraphQLProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GraphQLProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interfaces/IProduct.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/IProduct.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherForecast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherForecast.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/ProductService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/ProductService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherForecast.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +91,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656172349695</updated>
-      <workItem from="1656172359655" duration="1362000" />
+      <workItem from="1656172359655" duration="3595000" />
     </task>
+    <task id="LOCAL-00001" summary="_productList">
+      <created>1656173869395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656173869395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;project version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;GitToolBoxProjectSettings&quot;&gt;&#10;    &lt;option name=&quot;commitMessageIssueKeyValidationOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;    &lt;option name=&quot;commitMessageValidationEnabledOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;  &lt;/component&gt;&#10;&lt;/project&gt;">
+      <created>1656173915929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656173915929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,5 +127,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="_productList" />
+    <MESSAGE value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;project version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;GitToolBoxProjectSettings&quot;&gt;&#10;    &lt;option name=&quot;commitMessageIssueKeyValidationOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;    &lt;option name=&quot;commitMessageValidationEnabledOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;  &lt;/component&gt;&#10;&lt;/project&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;project version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;GitToolBoxProjectSettings&quot;&gt;&#10;    &lt;option name=&quot;commitMessageIssueKeyValidationOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;    &lt;option name=&quot;commitMessageValidationEnabledOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;  &lt;/component&gt;&#10;&lt;/project&gt;" />
   </component>
 </project>

@@ -4,9 +4,9 @@ namespace GraphQLProject.Interfaces;
 
 public interface IProduct
 {
-    List<Product?> GetAllProducts();
+    IEnumerable<Product> GetAllProducts();
     Product? GetProductById(int id);
     Product AddProduct(Product product);
-    Product UpdateProduct(int Id, Product product);
-    void DeleteProduct(int Id);
+    Product UpdateProduct(int id, Product product);
+    void DeleteProduct(int id);
 }
