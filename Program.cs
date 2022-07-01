@@ -1,5 +1,4 @@
 using GraphiQl;
-using GraphQL.Execution;
 using GraphQL.Server;
 using GraphQL.Types;
 using GraphQLProject.Interfaces;

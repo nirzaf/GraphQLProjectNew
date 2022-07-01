@@ -8,9 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e49bcb-f410-47c1-a65e-cc0b83e6fbca" name="Changes" comment="">
+    <list default="true" id="92e49bcb-f410-47c1-a65e-cc0b83e6fbca" name="Changes" comment="   mm,">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GraphQLProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GraphQLProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Type/ProductType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Type/ProductType.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a8e4d246eff2e6b51b893bf8cbc40b23e41a8b1d425df228982c2dbe2f9d46/ISchema.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nirza/OneDrive/Documents/GitHub/GraphQLProject/Type/ProductType.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -94,7 +94,7 @@
       <updated>1656172349695</updated>
       <workItem from="1656172359655" duration="9738000" />
       <workItem from="1656217128291" duration="700000" />
-      <workItem from="1656643074805" duration="675000" />
+      <workItem from="1656643074805" duration="1651000" />
     </task>
     <task id="LOCAL-00001" summary="_productList">
       <created>1656173869395</created>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656177538032</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="   mm,">
+      <created>1656649031294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656649031294</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +155,7 @@
     <MESSAGE value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;project version=&quot;4&quot;&gt;&#10;  &lt;component name=&quot;GitToolBoxProjectSettings&quot;&gt;&#10;    &lt;option name=&quot;commitMessageIssueKeyValidationOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;    &lt;option name=&quot;commitMessageValidationEnabledOverride&quot;&gt;&#10;      &lt;BoolValueOverride&gt;&#10;        &lt;option name=&quot;enabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;/BoolValueOverride&gt;&#10;    &lt;/option&gt;&#10;  &lt;/component&gt;&#10;&lt;/project&gt;" />
     <MESSAGE value="CRUD implemented with Controllers" />
     <MESSAGE value="https://localhost:7160/api/controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://localhost:7160/api/controller" />
+    <MESSAGE value="   mm," />
+    <option name="LAST_COMMIT_MESSAGE" value="   mm," />
   </component>
 </project>
