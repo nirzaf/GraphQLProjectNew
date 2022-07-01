@@ -3,7 +3,7 @@ using GraphQLProject.Models;
 
 namespace GraphQLProject.Type;
 
-public class ProductType : ObjectGraphType<Product>
+public sealed class ProductType : ObjectGraphType<Product>
 {
     public ProductType()
     {
